@@ -1,0 +1,32 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  border-radius: 1rem;
+}
+
+.ionicon {
+  height: 2rem;
+  width: 2rem;
+  cursor: pointer;
+}
+.list:first-child {
+  margin-bottom: 2rem;
+}
+.list {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: row;
+  font-size: 1.4rem;
+  font-weight: 600;
+  justify-content: space-around;
+  gap: 1.6rem;
+  justify-items: end;
+  width: 95vw;
+  margin: 1rem auto;
+}
+.header-list {
+  font-size: 1.6rem;
+  font-weight: 600;
+}

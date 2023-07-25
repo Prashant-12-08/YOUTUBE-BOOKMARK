@@ -1,0 +1,9 @@
+.ionicon {
+  stroke: #748ffc;
+  transform: translateY(7px);
+  cursor: pointer;
+}
+
+.el {
+  display: flex;
+}
